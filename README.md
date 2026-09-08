@@ -43,3 +43,7 @@ npm run dev
 
 ---
 Desenvolvido por João Pedro Padilha Martins.
+
+## 📸 Demonstração
+
+![Preview da Aplicação](screenshots/preview.png)
